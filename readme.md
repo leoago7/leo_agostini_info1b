@@ -1,5 +1,4 @@
-Module 164 Exercice du 2022.04.13
----
+# Python Flask HTML & MySQL
 
 
 # Faire fonctionner cette démo :
